@@ -1,0 +1,27 @@
+References
+
+1. Atilla Altinok, Didier Gonze, Francis Lévi and Albert Goldbeter 2010An automaton model for the cell cycleInterface Focus.136–47, http://doi.org/10.1098/rsfs.2010.0009
+
+2. Attila Csikász-Nagy, Computational systems biology of the cell cycle, Briefings in Bioinformatics, Volume 10, Issue 4, July 2009, Pages 424–434, https://doi.org/10.1093/bib/bbp005
+
+3. Ferrell, J. E., Tsai, T. Y.-C. & Yang, Q. Modeling the cell cycle: why do certain circuits oscillate? Cell 144, 874–885 (2011).
+
+4. J. Srividhya, M. Gopinathan, A simple time delay model for eukaryotic cell cycle
+J. Theor. Biol., 241 (2006), pp. 617-627
+
+5. K.C. Chen, L. Calzone, A. Csikasz-Nagy, F.R. Cross, B. Novak, J.J. Tyson, 
+Integrative analysis of cell cycle control in budding yeast, Mol. Biol. Cell, 15 (2004), pp. 3841-3862
+
+6. Molecular Biology of the Cell, 4th edition, Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter.
+
+7.  Novák B, Tyson JJ. Numerical analysis of a comprehensive model of M-phase control in Xen-opus oocyte extracts and intact embryos. J. Cell Sci. 1993;106:1153–1168.
+
+8. Sible JC, Tyson JJ. Mathematical modeling as a tool for investigating cell cycle control networks. Methods. 2007;41:238–247.
+
+9. Singhania R, Sramkoski RM, Jacobberger JW, Tyson JJ. A hybrid model of mammalian cell cycle regulation. PLoS Comput Biol. 2011;7(2):e1001077. Published 2011 Feb 10. doi:10.1371/journal.pcbi.1001077
+
+10. Sobie EA. Computational modeling of the cell cycle. Sci Signal. 2011;4(192):tr11. Published 2011 Sep 20. doi:10.1126/scisignal.2001985
+
+11. Soufi, A., and S. Dalton, 2016 Cycling through developmental decisions: how cell cycle dynamics control pluripotency, differentiation and reprogramming. Development 143: 4301–4311. https://doi.org/10.1242/dev.142075
+
+12. Wikipedia- (https://en.wikipedia.org/wiki/Cell_cycle)
